@@ -1,1 +1,8 @@
-{"guid":"template_wiki_textile","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_wiki_textile.git"}}
+{
+    "guid":"template_wiki_textile",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_wiki_textile.git"
+    }
+}
